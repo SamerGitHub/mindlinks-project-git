@@ -24,7 +24,7 @@ public String getCin() {
 public void setCin(String cin) {
 	this.cin = cin;
 }	
-
+//modified
 }
 
 
